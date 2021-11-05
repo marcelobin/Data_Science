@@ -3,6 +3,10 @@
 Neste repositório armazeno meus aprendizados sobre Data Science.
 
 ## <a href='https://github.com/marcelobin/Data_Science/tree/main/DataCamp'>DataCamp </a>
+
+
+Projetos disponibilizados pelo <a href='https://www.datacamp.com/'>DataCamp</a>
+
 * <a href ='https://github.com/marcelobin/Data_Science/blob/main/DataCamp/nobel.ipynb'>Nobel</a>
 
 
